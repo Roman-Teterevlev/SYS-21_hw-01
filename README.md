@@ -34,5 +34,7 @@
 
 ![alt text](https://github.com/Roman-Teterevlev/SYS-21_hw-01/blob/main/hw-01_1.png)
 
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_hw-01/blob/main/hw-01_2.png)
+
 
 ---
